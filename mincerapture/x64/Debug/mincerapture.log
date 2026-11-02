@@ -1,0 +1,16 @@
+﻿  blahreturns.cpp
+C:\Users\brewe\source\repos\mincerapture\mincerapture\hsvtorgb.h(6,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'blahreturns.cpp')
+  
+C:\Users\brewe\source\repos\mincerapture\mincerapture\hsvtorgb.h(7,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'blahreturns.cpp')
+  
+C:\Users\brewe\source\repos\mincerapture\mincerapture\blahreturns.cpp(198,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brewe\source\repos\mincerapture\mincerapture\blahreturns.cpp(371,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brewe\source\repos\mincerapture\mincerapture\blahreturns.cpp(372,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brewe\source\repos\mincerapture\mincerapture\blahreturns.cpp(376,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brewe\source\repos\mincerapture\mincerapture\blahreturns.cpp(377,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brewe\source\repos\mincerapture\mincerapture\blahreturns.cpp(378,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brewe\source\repos\mincerapture\mincerapture\blahreturns.cpp(379,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brewe\source\repos\mincerapture\mincerapture\blahreturns.cpp(386,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  mincerapture.vcxproj -> C:\Users\brewe\source\repos\mincerapture\x64\Debug\mincerapture.exe

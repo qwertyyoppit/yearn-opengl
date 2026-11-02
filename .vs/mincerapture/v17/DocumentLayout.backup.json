@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brewe\\source\\repos\\mincerapture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\blahreturns.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|solutionrelative:mincerapture\\blahreturns.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|solutionrelative:mincerapture\\shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\shader.fsh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|solutionrelative:mincerapture\\shader.fsh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\light_cube.fsh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|solutionrelative:mincerapture\\light_cube.fsh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\light_cube.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|solutionrelative:mincerapture\\light_cube.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\attenuationinputs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|solutionrelative:mincerapture\\attenuationinputs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\hsvtorgb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|solutionrelative:mincerapture\\hsvtorgb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|solutionrelative:mincerapture\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77188BD-A2BF-4157-8643-38F0175F538C}|mincerapture\\mincerapture.vcxproj|solutionrelative:mincerapture\\shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "attenuationinputs.h",
+              "DocumentMoniker": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\attenuationinputs.h",
+              "RelativeDocumentMoniker": "mincerapture\\attenuationinputs.h",
+              "ToolTip": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\attenuationinputs.h",
+              "RelativeToolTip": "mincerapture\\attenuationinputs.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-30T06:24:01.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hsvtorgb.h",
+              "DocumentMoniker": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\hsvtorgb.h",
+              "RelativeDocumentMoniker": "mincerapture\\hsvtorgb.h",
+              "ToolTip": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\hsvtorgb.h",
+              "RelativeToolTip": "mincerapture\\hsvtorgb.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-30T04:20:04.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "light_cube.vs",
+              "DocumentMoniker": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\light_cube.vs",
+              "RelativeDocumentMoniker": "mincerapture\\light_cube.vs",
+              "ToolTip": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\light_cube.vs",
+              "RelativeToolTip": "mincerapture\\light_cube.vs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T07:31:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "light_cube.fsh",
+              "DocumentMoniker": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\light_cube.fsh",
+              "RelativeDocumentMoniker": "mincerapture\\light_cube.fsh",
+              "ToolTip": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\light_cube.fsh",
+              "RelativeToolTip": "mincerapture\\light_cube.fsh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T07:31:07.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shader.vs",
+              "DocumentMoniker": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\shader.vs",
+              "RelativeDocumentMoniker": "mincerapture\\shader.vs",
+              "ToolTip": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\shader.vs",
+              "RelativeToolTip": "mincerapture\\shader.vs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-28T07:52:58.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shader.fsh",
+              "DocumentMoniker": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\shader.fsh",
+              "RelativeDocumentMoniker": "mincerapture\\shader.fsh",
+              "ToolTip": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\shader.fsh",
+              "RelativeToolTip": "mincerapture\\shader.fsh",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAHkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T04:08:26.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "blahreturns.cpp",
+              "DocumentMoniker": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\blahreturns.cpp",
+              "RelativeDocumentMoniker": "mincerapture\\blahreturns.cpp",
+              "ToolTip": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\blahreturns.cpp",
+              "RelativeToolTip": "mincerapture\\blahreturns.cpp",
+              "ViewState": "AgIAALEAAAAAAAAAAAAYwNUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-28T03:14:12.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\camera.h",
+              "RelativeDocumentMoniker": "mincerapture\\camera.h",
+              "ToolTip": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\camera.h",
+              "RelativeToolTip": "mincerapture\\camera.h",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwFQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-28T23:32:33.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "shader.h",
+              "DocumentMoniker": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\shader.h",
+              "RelativeDocumentMoniker": "mincerapture\\shader.h",
+              "ToolTip": "C:\\Users\\brewe\\source\\repos\\mincerapture\\mincerapture\\shader.h",
+              "RelativeToolTip": "mincerapture\\shader.h",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAYwKQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-28T07:33:53.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
